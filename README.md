@@ -7,7 +7,7 @@ Currently focusing on web app security, reconnaissance, and bug bounty hunting. 
 DM me for freelance audits & reports!
 
 ## 🔧 Skills & Tools (in progress)
-- Recon & OSINT: Subfinder, Amass, theHarvester, Shodan  
+- Recon & OSINT: Nmap, Subfinder, Amass, theHarvester, Shodan  
 - Web Pentesting: Burp Suite, ZAP, FFUF, Nuclei  
 - Scripting: Python (requests, argparse), Bash  
 - Other: Nmap, Wireshark, Hashcat, Metasploit basics  
