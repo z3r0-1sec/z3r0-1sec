@@ -1,6 +1,6 @@
 # Hi 👋 I'm z3r0-1 @z3r0-1sec
 
-Offensive security enthusiast | Red team learner | Web exploitation
+Offensive security enthusiast | Red team learner | Web exploitation | Internet of things!
 Building tools, publishing write-ups, and sharpening my skills every day  
 
 Currently focusing on web app security, reconnaissance, and bug bounty hunting. Always open to feedback.
