@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm z3r0-1 @z3r0-1sec
 
-<!--
-**z3r0-1sec/z3r0-1sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity enthusiast | Red team learner | Web exploitation
+Building tools, publishing write-ups, and sharpening my skills every day  
 
-Here are some ideas to get you started:
+Currently focusing on web app security, reconnaissance, and bug bounty hunting. Always open to feedback.
+DM me for freelance audits & reports!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools (in progress)
+- Recon & OSINT: Subfinder, Amass, theHarvester, Shodan  
+- Web Pentesting: Burp Suite, ZAP, FFUF, Nuclei  
+- Scripting: Python (requests, argparse), Bash  
+- Other: Nmap, Wireshark, Hashcat, Metasploit basics  
+- Learning: Exploit dev, reverse engineering, cloud security
+
+## 🚀 Current Projects
+(Under active construction – first few repos coming soon!)
+- Automated recon scripts  
+- CTF write-ups from TryHackMe & HackTheBox  
+- Simple vuln scanners & wrappers  
+
+Check back soon – I'm pushing updates weekly!
+
+## 📫 Let's Connect
+- Email: z3r0-1sec@proton.me  
+- GitHub: [@z3r0-1sec] (https://github.com/z3r0-1sec)  
+
+Socials coming soon (LinkedIn, Discord, etc.) – feel free to reach out via email if you want to chat security, share tips, or collaborate on something fun.
+
+Always ethical. Always learning. 🚀
+
+---
+
+Last updated: December 2025
