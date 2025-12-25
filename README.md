@@ -15,6 +15,7 @@ DM me for freelance audits & reports!
 
 ## 🚀 Current Projects
 (Under active construction – first few repos coming soon!)
+- 2025 Red-Team stealth chain (Passive, Active, Evasion
 - Automated recon scripts  
 - CTF write-ups from TryHackMe & HackTheBox  
 - Simple vuln scanners & wrappers  
